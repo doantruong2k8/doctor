@@ -1,0 +1,424 @@
+.demo1 {
+    margin: 0 auto;
+}
+
+.div1 {
+    background: rgba(225, 225, 225, 0.81);
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.soc {
+    width: -100px;
+    height: 30px;
+    border: 1px solid rgba(204, 204, 204, 1);
+    border-radius: 2px;
+}
+
+.socbo {
+    padding: 0 30px;
+}
+
+.h1 {
+    color: rgba(37, 43, 97, 1);
+    font-family: Outfit;
+    padding-left: 30px;
+}
+
+.timkiem {
+    display: flex;
+    align-self: center;
+    padding: 4px 238px 4px 4px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 1);
+}
+
+.fa-magnifying-glass {
+    background: rgba(240, 218, 105, 1);
+    border-radius: 20px;
+    padding: 8.25px 8.47px 8.47px 9.25px;
+}
+
+.nhonho {
+    display: flex;
+    align-self: center;
+    margin-left: 10px;
+    white-space: nowrap;
+    font-family: Outfit;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+    color: rgba(192, 192, 192, 1);
+}
+
+.chua {
+    display: flex;
+    align-content: center;
+    padding-left: 230px;
+}
+
+.p1 {
+    white-space: nowrap;
+    align-content: center;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(189, 190, 200);
+
+}
+
+.p2 {
+    padding: 0px 30px;
+    color: rgba(255, 92, 0, 1);
+}
+
+.p3 {
+    padding-right: 30px;
+}
+
+.div2 {
+    background: rgba(37, 43, 97, 1);
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
+.h2 {
+    margin: 0px;
+    text-align: center;
+    color: rgba(198, 222, 253, 1);
+    font-family: Outfit;
+    font-size: 210px;
+    box-sizing: border-box;
+}
+
+.chuatrong {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 1px auto;
+}
+
+.uraura {
+    width: 30%;
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    font-family: Outfit;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    color: rgba(198, 222, 253, 1);
+    white-space: nowrap;
+    margin: 0;
+}
+
+.doctor {
+    width: 40%;
+    position: relative;
+    bottom: 120px;
+}
+
+.fa-heart-pulse {
+    background: rgba(231, 194, 212, 1);
+    border-radius: 20px;
+    padding: 5px;
+    color: black;
+}
+
+.fa-cloud-showers-heavy {
+    background: rgba(163, 218, 194, 1);
+    border-radius: 20px;
+    padding: 5px;
+    color: black;
+}
+
+.duoicung {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.cola {
+    white-space: wrap;
+    color: rgba(255, 255, 255, 1);
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 400;
+    right: 148px;
+    bottom: 42px;
+    padding: 10px;
+}
+
+.ko {
+    margin: 0px;
+    display: flex;
+    align-self: center;
+    position: relative;
+
+}
+
+.boxing {
+    display: flex;
+}
+
+.cola2 {
+    white-space: nowrap;
+    background: rgba(231, 194, 212, 1);
+    border-radius: 25px;
+    width: 130px;
+    padding: 10px 2px;
+    color: black;
+    right: 90px;
+    top: 40px;
+
+}
+
+.ten1 {
+    background: rgba(231, 194, 212, 1);
+    border-radius: 20px;
+    padding: 8.25px 8.47px 8.47px 9.25px;
+    color: black;
+    right: 90px;
+    top: 40px;
+}
+
+.ul1 {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 10px;
+}
+
+.li {
+    width: 20%;
+}
+
+.li1 {
+    background: rgba(163, 218, 194, 1);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.li2 {
+    background: rgba(163, 218, 194, 1);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.li3 {
+    background: rgba(163, 218, 194, 1);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.li4 {
+    background: rgba(163, 218, 194, 1);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.chuaimg {
+    display: flex;
+    justify-content: space-between;
+}
+
+.meo {
+    mix-blend-mode: multiply;
+    width: 60%;
+}
+
+.ki1 {
+    color: white;
+    align-self: end;
+    background: rgba(37, 43, 97, 1);
+    border-radius: 20px;
+    padding: 8.25px 8.47px 8.47px 9.25px;
+}
+
+.onepiece {
+    color: rgba(37, 43, 97, 1);
+    margin: 0;
+    font-family: Outfit;
+    font-size: 33px;
+    font-weight: 600;
+}
+
+.naruto {
+    margin: 0;
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(37, 43, 97, 1);
+}
+
+pre {
+    margin: 0;
+}
+
+.tieude {
+    text-align: center;
+    font-family: Outfit;
+    color: rgba(37, 43, 97, 1);
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.vegeta {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.goku {
+    display:flex;
+    justify-content:space-around;
+    background: rgba(240, 218, 105, 1);
+    width: 49%;
+    border-radius: 25px;
+    padding:20px;
+    box-sizing: border-box;
+}
+
+.chichi {
+    width: 49%;
+
+}
+.red{
+    width: 49%;
+}
+.mon {
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    background: rgba(255, 255, 255, 0.91);
+    padding:5px;
+    margin-bottom: 10px;
+}
+.onepiece1{
+    color: rgba(37, 43, 97, 1);
+    margin: 0;
+    font-family: Outfit;
+    font-size: 33px;
+    font-weight: 600;
+}
+
+.naruto1{
+    margin: 0;
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(37, 43, 97, 1);
+}
+.blue{
+    mix-blend-mode: multiply;
+}
+.gohan{
+    height: 48%;
+    background: rgba(44, 67, 138, 1);
+    display:flex;
+    justify-content: space-around;
+    border-radius: 25px;
+    padding:10px;
+    box-sizing: border-box;
+}
+.black{
+    width: 49%;
+}
+.sun{
+    width: 30%;
+    mix-blend-mode: multiply;
+}
+.roger {
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    background: rgba(255, 255, 255, 0.91);
+    padding:5px;
+    margin-bottom: 30px;
+}
+.onepiece2{
+    color: white;
+    margin: 0;
+    font-family: Outfit;
+    font-size: 33px;
+    font-weight: 600;
+}
+
+.naruto2{
+    margin: 0;
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    color:white;
+}
+.onepiece21{
+    margin-top:60px;
+}
+.goten{
+    box-sizing: border-box;
+    height: 48%;
+    display:flex;
+    justify-content: space-around;
+    margin-top:15px;
+}
+.pan{
+    width: 49%;
+    background: rgba(163, 218, 194, 1);
+    border-radius: 25px;
+    display:flex;
+    justify-content: space-around;
+    padding:15px;
+    box-sizing: border-box;
+}
+.pan1{
+    background: rgba(230, 193, 211, 1);
+    border-radius: 25px;
+    width: 49%;
+    box-sizing: border-box;
+    display:flex;
+    justify-content: space-around;
+    padding:15px;
+}
+.kuku{
+width: 49%;
+color: rgba(37, 43, 97, 1);
+margin-left:10px;
+}
+.batngo{
+    width: 49%;
+    mix-blend-mode: multiply;
+}
+.pink{
+    margin:0;
+    font-family: Outfit;
+    font-weight: 600;
+    margin-top:110px;
+}
+.yellow{
+    margin:0;
+}
+.kuku2{
+width: 49%;
+color: rgba(37, 43, 97, 1);
+margin-left:10px;
+}
+.batngo2{
+    width: 49%;
+    mix-blend-mode: multiply;
+}
+.pink2{
+    margin:0;
+    font-family: Outfit;
+    font-weight: 600;
+    margin-top:110px;
+}
+.yellow2{
+    margin:0;
+}
+a{
+    text-decoration: none;
+}
